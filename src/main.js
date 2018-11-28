@@ -13,3 +13,6 @@ new Vue({
   components: { App },
   template: '<App/>'
 })
+
+
+let test = 111;

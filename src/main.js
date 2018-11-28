@@ -16,3 +16,4 @@ new Vue({
 
 
 let test = 111;
+let a = ''
